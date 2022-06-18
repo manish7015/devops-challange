@@ -1,0 +1,9 @@
+.terraform.lock.hcl
+terraform.tfstate
+.terraform
+crash.log
+NewStorage.azcli
+test.sh
+terraform.tfstate.backup
+nginx/
+values.yaml
